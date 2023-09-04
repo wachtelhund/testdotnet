@@ -1,0 +1,15 @@
+/home/hampus/repos/testdotnet/obj/Debug/net7.0/testdotnet.csproj.AssemblyReference.cache
+/home/hampus/repos/testdotnet/obj/Debug/net7.0/testdotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/hampus/repos/testdotnet/obj/Debug/net7.0/testdotnet.AssemblyInfoInputs.cache
+/home/hampus/repos/testdotnet/obj/Debug/net7.0/testdotnet.AssemblyInfo.cs
+/home/hampus/repos/testdotnet/obj/Debug/net7.0/testdotnet.csproj.CoreCompileInputs.cache
+/home/hampus/repos/testdotnet/bin/Debug/net7.0/testdotnet
+/home/hampus/repos/testdotnet/bin/Debug/net7.0/testdotnet.deps.json
+/home/hampus/repos/testdotnet/bin/Debug/net7.0/testdotnet.runtimeconfig.json
+/home/hampus/repos/testdotnet/bin/Debug/net7.0/testdotnet.dll
+/home/hampus/repos/testdotnet/bin/Debug/net7.0/testdotnet.pdb
+/home/hampus/repos/testdotnet/obj/Debug/net7.0/testdotnet.dll
+/home/hampus/repos/testdotnet/obj/Debug/net7.0/refint/testdotnet.dll
+/home/hampus/repos/testdotnet/obj/Debug/net7.0/testdotnet.pdb
+/home/hampus/repos/testdotnet/obj/Debug/net7.0/testdotnet.genruntimeconfig.cache
+/home/hampus/repos/testdotnet/obj/Debug/net7.0/ref/testdotnet.dll
